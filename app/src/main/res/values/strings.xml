@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListDetail</string>
+    <string name="detail">Detail</string>
+    <string name="dish">Dish</string>
+</resources>

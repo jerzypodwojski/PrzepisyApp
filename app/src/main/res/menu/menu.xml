@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/i_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/i_food"
+        android:icon="@android:drawable/ic_dialog_dialer"
+        android:title="Food Recipes" />
+
+    <item
+        android:id="@+id/i_timer"
+        android:icon="@drawable/ic_baseline_timer_24"
+        android:title="Timer" />
+</menu>
